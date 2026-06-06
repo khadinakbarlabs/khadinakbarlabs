@@ -1,17 +1,18 @@
 # Khadin Akbar
 
-AI-SEO consultant, Udemy instructor, and indie maker building data infrastructure for AI agents.
+AI-SEO consultant, automation expert, and indie maker. Helping SaaS founders get found by ChatGPT, Perplexity, Gemini, and Claude — with zero ad spend.
 
-**300K+ Udemy students · 7M+ LinkedIn newsletter subscribers · 104 Apify actors · $14K/mo from products**
+**300K+ Udemy students · 3M+ Custom GPT chats · 60K AI newsletter subscribers · 200K+ signups generated**
 
 ---
 
-## What I Build
+## What I Do
 
-- **Apify actors** — 104+ production scrapers for lead gen, social media, ecommerce, SEO, finance
-- **MCP servers** — plug any actor directly into Claude, Cursor, Cline, or any AI agent
-- **SaaS products** — FeaturedForge, SaaSpedia, Humanizer PRO, Presentia AI
-- **Courses** — AI SEO, automation, web scraping, content systems (33+ on Udemy)
+- **GEO / AI-SEO** — get brands mentioned and recommended by LLMs (ChatGPT, Perplexity, Gemini, Claude)
+- **AI Integration & Automation** — automate operations using AI-powered workflows
+- **Programmatic SEO** — scale content production and drive thousands of qualified leads
+- **Apify actors** — 104+ production scrapers for lead gen, social, ecommerce, SEO, finance
+- **MCP servers** — plug any scraper directly into Claude, Cursor, Cline, or any AI agent
 
 ---
 
@@ -22,59 +23,60 @@ AI-SEO consultant, Udemy instructor, and indie maker building data infrastructur
 | [ai-brand-monitor-mcp](https://github.com/khadinakbarlabs/ai-brand-monitor-mcp) | GEO visibility — brand mentions across Perplexity, ChatGPT, Claude, Gemini | `npx ai-brand-monitor-mcp` |
 | [google-maps-scraper-mcp](https://github.com/khadinakbarlabs/google-maps-scraper-mcp) | B2B leads, emails, reviews from Google Maps | `npx google-maps-scraper-mcp` |
 
-Any actor also available at:
+Any actor also accessible at:
 ```
 https://mcp.apify.com?tools=khadinakbar/<actor-name>
 ```
 
 ---
 
-## Apify Actor Portfolio — [apify.com/khadinakbar](https://apify.com/khadinakbar)
+## Apify Store — [apify.com/khadinakbar](https://apify.com/khadinakbar)
 
 **104 actors · 3,600 users · 97.4% success rate**
 
 ### Lead Generation
-`linkedin-profile-email-scraper` · `b2b-lead-finder-enrichment` · `google-maps-leads-scraper` · `universal-lead-finder` · `bulk-website-contact-extractor` · `email-address-validator` · `username-osint-scraper` · `importyeti-scraper` · `clutch-scraper`
+`linkedin-profile-email-scraper` · `b2b-lead-finder-enrichment` · `google-maps-leads-scraper` · `universal-lead-finder` · `bulk-website-contact-extractor` · `email-address-validator` · `username-osint-scraper` · `importyeti-scraper`
 
 ### Social Media
-`instagram-profile-scraper` · `instagram-reels-scraper` · `tiktok-profile-scraper` · `tiktok-ads-scraper` · `x-tweet-scraper` · `youtube-transcript-extractor` · `youtube-shorts-scraper` · `spotify-all-in-one-scraper` · `reddit-posts-comments-scraper` · `telegram-channel-scraper` · `pinterest-scraper`
+`instagram-profile-scraper` · `instagram-reels-scraper` · `tiktok-profile-scraper` · `tiktok-ads-scraper` · `x-tweet-scraper` · `youtube-transcript-extractor` · `youtube-shorts-scraper` · `spotify-all-in-one-scraper` · `reddit-posts-comments-scraper` · `telegram-channel-scraper`
 
 ### Ecommerce
-`amazon-product-intelligence` · `ebay-all-in-one-scraper` · `etsy-all-in-one-scraper` · `aliexpress-all-in-one-scraper` · `walmart-data-extractor` · `shopify-all-in-one-scraper` · `google-shopping-scraper`
+`amazon-product-intelligence` · `ebay-all-in-one-scraper` · `etsy-all-in-one-scraper` · `aliexpress-all-in-one-scraper` · `walmart-data-extractor` · `shopify-all-in-one-scraper`
 
 ### SEO & AI Search
-`ai-search-brand-monitor` · `google-ai-overviews-scraper` · `scrape-google-serp` · `google-ads-scraper` · `google-trends-scraper` · `broken-link-checker` · `website-uptime-monitor` · `chatgpt-gpt-store-scraper`
+`ai-search-brand-monitor` · `google-ai-overviews-scraper` · `scrape-google-serp` · `google-ads-scraper` · `google-trends-scraper` · `broken-link-checker` · `website-uptime-monitor`
 
 ### Finance & Research
-`yahoo-finance-scraper` · `sec-edgar-all-in-one-scraper` · `crypto-price-tracker` · `stock-price-tracker` · `google-patents-scraper` · `google-scholar-scraper` · `github-deep-scraper` · `google-play-all-in-one-scraper`
+`yahoo-finance-scraper` · `sec-edgar-all-in-one-scraper` · `crypto-price-tracker` · `google-patents-scraper` · `google-scholar-scraper` · `github-deep-scraper`
 
 ---
 
-## Products
+## Client Results
 
-| Product | Revenue | Description |
+| Client | Strategy | Result |
 |---|---|---|
-| [FeaturedForge](https://featuredforge.com) | $14K/mo | Get your brand recommended by AI search |
-| [SaaSpedia](https://saaspedia.io) | $3.9K/mo | Organic growth playbooks for SaaS |
-| [Humanizer PRO](https://humanizerpro.com) | $3.7K/mo | AI-to-human content rewriting |
+| Presentia.ai | AI-SEO + ChatGPT placement | $120K valuation · 80K signups |
+| UXPilot.ai | LLM distribution funnels | $40K ARR in 5 months |
+| Fliki.ai | Perplexity + Claude + ChatGPT mentions | $70K+ ARR · 150K visitors |
 
-**Client results:** Presentia.ai (80K signups) · UXPilot.ai ($40K ARR in 5 months) · Fliki.ai ($70K+ ARR)
+Partnerships: AppSumo · DigitalOcean · 20+ SaaS companies
 
 ---
 
-## Content & Teaching
+## Teaching & Content
 
-- **Udemy:** [300K+ students, 33+ courses](https://www.udemy.com/user/khadinakbar/) — AI SEO, automation, scraping, course creation
-- **LinkedIn Newsletter:** [Khadin Akbar Insights](https://www.linkedin.com/in/khadinakbar) — 7M+ subscribers
-- **DEV.to:** [dev.to/khadin](https://dev.to/khadin) — web scraping & automation tutorials
+- **Udemy:** [300K+ students, 33+ courses](https://www.udemy.com/user/khadinakbar/) — AI SEO, automation, web scraping
+- **Custom GPTs:** 3M+ chats
+- **AI Newsletter:** 60K subscribers
+- **YouTube:** [Grow With Khadin](https://www.youtube.com/c/growwithkhadin) — freelancing, AI, entrepreneurship
+- **DEV.to:** [dev.to/khadin](https://dev.to/khadin) — scraping & automation tutorials
 - **Medium:** [khadinakbar.medium.com](https://khadinakbar.medium.com)
-- **YouTube:** [Grow With Khadin](https://www.youtube.com/c/growwithkhadin) · [Tech With Khadin](https://www.youtube.com/channel/UCegzOIJAykw0AvsTEWhLQOw)
 
 ---
 
 ## Stack
 
-TypeScript · Node.js · Crawlee · Playwright · Cheerio · Apify SDK · MCP SDK · OpenRouter · Google Gemini API
+TypeScript · Node.js · Crawlee · Playwright · Cheerio · Apify SDK · MCP SDK · OpenRouter · Gemini API
 
 ---
 
